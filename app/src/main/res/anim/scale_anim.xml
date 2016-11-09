@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Resize
+view will scale up 1.5 times at it's center in 1 second-->
 <scale xmlns:android="http://schemas.android.com/apk/res/android"
        android:fromXScale="1.0"
        android:toXScale="1.5"

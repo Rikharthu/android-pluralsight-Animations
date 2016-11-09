@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Translation
+view will move right by 150 pixels in .25 seconds
+repeat this animation 2 times backwards-->
 <translate xmlns:android="http://schemas.android.com/apk/res/android"
            android:fromXDelta="0"
            android:toXDelta="150"
            android:fromYDelta="0"
            android:toYDelta="0"
-           android:duration="1000"
+           android:duration="250"
+           android:repeatMode="reverse"
+           android:repeatCount="2"
     />
 

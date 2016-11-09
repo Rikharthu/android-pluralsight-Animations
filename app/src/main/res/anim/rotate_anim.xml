@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Rotate view by 180deg anti-clockwise around center of the screen
-repeat this animation in a reverse order 1 time-->
+<!--Rotate view by 180deg anti-clockwise around the center of the screen
+repeat this animation in a reverse order 1 time (rotate back to origin)-->
 <rotate
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:fromDegrees="0"
